@@ -1,4 +1,4 @@
-
+201b7877b2f5d975cce92f89561625ced2
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
@@ -9,6 +9,11 @@
 /[Mm]emoryCaptures/
 /[Rr]ecordings/
 /[Aa]ssets/Plugins/Editor/JetBrains*
+.vs/
+.gradle/
+/[Mm]emoryCaptures/
+!/[Aa]ssets/**/*.meta
+[Aa]ssets/Plugins/Editor/JetBrains*
 .vs/
 .gradle/
 ExportedObj/
@@ -39,3 +44,10 @@ crashlytics-build.properties
 /[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+*.apk
+*.unitypackage
+crashlytics-build.properties
